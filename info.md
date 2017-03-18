@@ -132,7 +132,7 @@ Diferencia entre Q3 y Q1
 > hist(vector, main="titulo")
 ```
 
-## Correlation 
+## Correlation and Regression
 -----------------------------
 ### Correlation between two variables.
 
@@ -160,8 +160,10 @@ Where:
 
 
 
-## Regression 
---------------
+### Regression Line
 
 ![Image of Pearsons](images/LinealRegression.PNG)
 
+### Compute regression line
+
+![Image of Pearsons](images/ComputeRL.PNG)
