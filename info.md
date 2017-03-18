@@ -139,4 +139,7 @@ Used for nominal and ordinal variables .
 Used for quantitative variables.
 ### Pearson's R
 
+Formula:  
+
+![Image of Pearsons](images/Pearsons.png)
 
