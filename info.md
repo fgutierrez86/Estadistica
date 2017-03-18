@@ -101,6 +101,7 @@ Diferencia entre Q3 y Q1
 ```
 
 ### Z-Score
+![Image of ZScore](images/ZScore.PNG)
 ```R
 > scale(x, center=TRUE, scale=TRUE)
 ```
@@ -149,4 +150,8 @@ Formula:
 
 Where:
 
-* Z1 Z Score
+* **Zx** Z Score of x variable.
+* **Zy** Z Score of y variable.
+
+
+
