@@ -1,0 +1,207 @@
+Cerrar
+Probability
+
+15 preguntas
+1
+point
+1. 
+Your friend told you about someone really smart who made a good deal with the bank regarding his/her mortgage and who knows everything about the financial crisis that started in 2008. Which of the following statements is more likely?
+
+I. Your friend talked about a man.
+
+II. Your friend talked about a man with a job in the banking world.
+
+Both statements are equally likely.
+
+Statement II is more likely
+
+Statement I is more likely. ---- Respuesta correcta
+1
+point
+2. 
+You roll a dice five times. The outcomes are: 6 6 6 6 6. Then you repeat this and you find: 1 4 3 5 2.
+
+Which of the following outcomes is most likely?
+
+The first outcome is more likely.
+
+The second outcome is more likely.
+
+Both outcomes are equally likely  --- Respuesta correcta
+1
+point
+3. 
+Imagine you're at the beach. You're really thirsty and decide to go to a beach stand to get some coke. When you arrive you see there's a queue consisting of two girls and one boy. Unfortunately the stand has only one coke left. You've learned that three in ten girls drink coke and 60 percent of boys drink coke.
+
+How likely is it that you will get the coke?
+
+0.054
+
+0.196  --- Respuesta correcta
+
+0.946
+
+0.804
+1
+point
+4. 
+You ask a couple of people at the beach what they think about the seagulls. You propose them the statement: Seagulls are annoying. Their responses are as follows:
+
+20% strongly agree
+
+13% agree
+
+12% neutral
+
+50% disagree
+
+5% strongly disagree
+
+What is the chance of a random person responding with 'agree' given that he/she is not neutral?
+
+0.13  --- Respuesta correcta (WRONG)
+
+0.52
+
+0.15
+
+0.25
+1
+point
+5. 
+
+Imagine you ask some students which subject they prefer: statistics or English. There are a lot of people that love statistics (B) and a lot of people that love English (C). However, there are also people that can't make a decision and tell you that they like both the subjects (D). When you look further into the results you realise that all the female students had a positive opinion about statistics (A).
+
+Which of these events (A, B, C, D) are disjoint?
+
+B and C & C and D --- Respuesta correcta
+
+A and D & B and C
+
+A and C & A and D
+
+A and C & B and C
+1
+point
+6. 
+You collect four shells from the beach. You know that there are only three types of shells on the beach, and these shells occur in equal amounts. How many different events are possible?
+
+4
+
+3
+
+12
+
+81 --- Respuesta correcta
+1
+point
+7. 
+Twenty people take a statistics exam. Jonas scored five out of ten and Emma scored eight out of ten. Every score (1 to 10) is equally likely. What is the chance of a random person out of the people that took the exam scoring higher than Jonas, but lower than Emma?
+
+0.22
+
+0.8
+
+0.4   --- Respuesta (WRONG)!
+
+0.2
+1
+point
+8. 
+How can we define probability or chance?
+
+as a long-run relative frequency
+
+as the average or expeted value of a random variable
+
+as the relative uncertainty about events
+
+as a probable value that a random variable will take --- Respuesta?  WRONG
+1
+point
+9. 
+You are rushing out to get to your appointment in 30 minutes. From experience you know that most of the time you travel this distance in 30 minutes. However, half of the time there is heavy traffic. In the past, there has been heavy traffic and you have made it to your appointment within 30 minutes 34% of the time.
+
+You get out on the street and see that there is heavy traffic. What is the chance you will get to your appointment on time?
+
+0.17
+
+0.68
+
+0.34  --- RESPUESTA CORRECTA  (WRONG!)
+
+0.5
+1
+point
+10. 
+
+What is the probability of event A given event B?
+
+0.42
+
+1.03
+
+0.16
+
+0.73
+1
+point
+11. 
+You have a pot with 100 balls. 20 of them are red, 50 are blue and 30 are green. You decide to draw 5 balls from the pot without replacement (i.e. you don't put a ball back in the pot once it has been taken out). What is the probability of drawing five blue balls?
+
+Give your answer to 3 decimal places.
+
+Introduce la respuesta aquí   ---- RESPUESTA : 0.025  (WRONG!)
+1
+point
+12. 
+On a single train journey there is a probability of 0.4 that your ticket will be checked. You make a return-journey, what is the probability that your ticket will be checked only once?
+
+Give your answer as a proportion, rounding to two decimal places. 
+
+
+Introduce la respuesta aquí  RESPUESTA: 0.06 (WRONG!)
+1
+point
+13. 
+You roll a pair of dice 20 times and record how often you get a total of 5 or 10. What is your best guess for the relative frequency that this event (a total of 5 or 10) occurs without seeing the actual data?
+
+Give your answer as a proportion, rounding to three decimal places.
+
+Introduce la respuesta aquí --- 0.222  (WRONG!)
+RESPUESTA 0.194
+1
+point
+14. 
+The chance that the front light on your bike will fail is 0.2, the chance that your rear light will fail is 0.1 and the chance that both will fail is 0.04. What is the chance that both lights will work? (regardless of the answer you should do something about this situation of course).
+
+Give your answer as a proportion, rounding to two decimal places.
+
+Introduce la respuesta aquí --- 0.66  (WRONG!)
+-----     CORRECCION 0.74 RESPUESTA CORRECTA.
+
+1
+point
+15. 
+Which of the following statements are correct?
+
+I. A discrete random variable can take a finite number of distinct values.
+
+II. Height is an example of a continuous random variable.
+
+Both statements are correct. --- REspuesta correcta
+
+Statement I is correct, statement II is incorrect.
+
+Statement I is incorrect, statement II is correct.
+
+Both statements are incorrect.
+
+Entiendo que enviar trabajo que no es mío resultará en la desaprobación permanente de este curso y la desactivación de mi cuenta de Coursera. Obtén más información sobre el Código de Honor de Coursera
+
+Fernando Gutierrez
+7 preguntas sin responder
+Enviar Cuestionario
+
+
+

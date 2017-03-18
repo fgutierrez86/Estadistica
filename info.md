@@ -1,0 +1,142 @@
+## Measure of central tendency
+------------------------------
+
+### Mode Moda
+
+value that ocurrs most frecuently
+most common outcome
+nominal or ordinal measure
+
+```R
+    > moda(x)  // funcion realizada
+```
+
+### Median Mediana
+
+The middle value of your observation
+when arranged from smallest to largest
+50% below the median, 50 above the median
+
+```R
+    > median(x)
+```
+
+
+### Mean Promedio
+
+The sum of all the values divided by the 
+number of observations
+
+```R
+    > mean(x)
+```
+
+## Distribution or dispertion
+------------------------------
+
+### Range
+
+highest value - lowest value
+
+```R
+    > max(x) - min(x)
+```
+
+### Quartile
+
+```R
+    > quantile(x)
+    > Q1 <- quantile(x)[2]
+    > Q3 <- quantile(x)[4]
+```
+
+* 25%  Q1
+* 50%  Q2
+* 75%  Q3
+* 100% Q4
+
+### Interquartile range
+
+Diferencia entre Q3 y Q1
+
+```R
+    > Q3 - Q1
+```
+## IQR
+
+```R
+ > IQR <- Q3 - Q1
+
+> IQR(vector)
+```
+
+
+### Outliers: 
+
+```R
+    > #Lower:  
+    > Q1 - 1.5*IQR(x)
+    > #higher: 
+    > Q3 + 1.5*IQR
+```
+
+### Box Plot
+
+```R
+    > boxplot(vector)
+```
+
+### Dot Plot
+```R
+> dotplot(vector)
+```
+
+### standard deviation
+```R
+> sd(vector)
+```
+
+### Z-Score
+```R
+> scale(x, center=TRUE, scale=TRUE)
+```
+
+## R
+----
+
+### ver estructura del objeto
+```R
+> str(x)
+```
+### ver dimensiones
+```R
+> dim(x)
+```
+
+### hacer una tabla de frecuencias (con un vector de factores)
+```R
+> table(mtcars$am)
+```
+
+### hacer un grafico de barras con la tabla de frecuencias
+```R
+> barplot(table, ylab = "label y", xlab = "label x")
+```
+### hacer un histograma
+```R
+> hist(vector, main="titulo")
+```
+
+## Correlation and regression
+-----------------------------
+### Correlation between two variables.
+
+
+
+#### Contengency table
+Used for nominal and ordinal variables . 
+#### Scatterplot
+Used for quantitative variables.
+### Pearson's R
+
+
