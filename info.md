@@ -92,6 +92,10 @@ Diferencia entre Q3 y Q1
 ```
 
 ### standard deviation
+
+
+![Image of sd](images/StandardDeviation.PNG)
+
 ```R
 > sd(vector)
 ```
@@ -143,3 +147,6 @@ Formula:
 
 ![Image of Pearsons](images/Pearsons.PNG)
 
+Where:
+
+* Z1 Z Score
