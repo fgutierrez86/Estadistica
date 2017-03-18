@@ -163,5 +163,5 @@ Where:
 ## Regression 
 --------------
 
-![Image of Pearsons](images/LinearRegression.PNG)
+![Image of Pearsons](images/LinealRegression.PNG)
 
