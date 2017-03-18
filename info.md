@@ -132,7 +132,7 @@ Diferencia entre Q3 y Q1
 > hist(vector, main="titulo")
 ```
 
-## Correlation and regression
+## Correlation 
 -----------------------------
 ### Correlation between two variables.
 
@@ -144,6 +144,8 @@ Used for nominal and ordinal variables .
 Used for quantitative variables.
 ### Pearson's R
 
+Only for linear relation.
+
 Formula:  
 
 ![Image of Pearsons](images/Pearsons.PNG)
@@ -152,6 +154,14 @@ Where:
 
 * **Zx** Z Score of x variable.
 * **Zy** Z Score of y variable.
+* **x** Numbers of elements.
 
 
+
+
+
+## Regression 
+--------------
+
+![Image of Pearsons](images/LinearRegression.PNG)
 
