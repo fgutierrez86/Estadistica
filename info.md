@@ -141,5 +141,5 @@ Used for quantitative variables.
 
 Formula:  
 
-![Image of Pearsons](images/Pearsons.png)
+![Image of Pearsons](images/Pearsons.PNG)
 
