@@ -91,6 +91,11 @@ Diferencia entre Q3 y Q1
 > dotplot(vector)
 ```
 
+### Variance
+
+The variance tells you how far the scores
+are spread out from the mean.
+
 ### standard deviation
 
 
@@ -139,10 +144,14 @@ Diferencia entre Q3 y Q1
 
 
 #### Contengency table
-Used for nominal and ordinal variables . 
+Used for nominal and ordinal variables. 
+
 #### Scatterplot
 Used for quantitative variables.
 ### Pearson's R
+Measure of correlation.
+Expresses the direction and strength of the linear
+correlation between two variables with a single number.
 
 Only for linear relation.
 
@@ -167,3 +176,28 @@ Where:
 ### Compute regression line
 
 ![Image of Pearsons](images/ComputeRL.PNG)
+
+### **r2** (squared 2) or correlation coefficient (wikipedia).
+
+Tells yoy how much better a regression line predicts the value
+of a dependent variable than the mean of the variable.
+
+![Image of Prediction errors](images/PredictionError.PNG)
+
+### Explained variance
+
+**model assumptions**:
+The centre of the Y distribution must be a linear function of X,
+and for any given x, the Y distribution must be normal.
+In this case, R2 is interpreted as proportion of explained variance.
+
+
+![Image of Prediction errors](images/ExplainedVariance.PNG)
+
+The left circle represents the variance of independent variable
+X and the right circle stands for the variance of dependent
+variable Y.The overlap represents **r-squared or the explained variance**
+
+
+
+
