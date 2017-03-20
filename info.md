@@ -127,6 +127,12 @@ are spread out from the mean.
 ```R
 > table(mtcars$am)
 ```
+### También se hace una tabla de contingencia cuando son dos variables:
+
+Crea una tabla con row = tobacco column = student : 
+```R
+ > table(smoking$tobacco, smoking$student)
+```
 
 ### hacer un grafico de barras con la tabla de frecuencias
 ```R
@@ -167,7 +173,10 @@ Where:
 * **Zy** Z Score of y variable.
 * **x** Numbers of elements.
 
-
+```R
+    > cor(var1, var2, method="pearson")
+# Pearson is the default method...
+```
 
 
 
