@@ -153,6 +153,8 @@ Measure of correlation.
 Expresses the direction and strength of the linear
 correlation between two variables with a single number.
 
+Pearson's R is allways a number between -1 and 1.
+
 Only for linear relation.
 
 Formula:  
