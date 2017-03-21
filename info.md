@@ -195,6 +195,26 @@ of a dependent variable than the mean of the variable.
 
 ![Image of Prediction errors](images/PredictionError.PNG)
 
+```R
+        > money
+         [1]  1  2  3  4  5  6  7  8  9 10
+        > prosocial
+         [1]  3  2  1  4  5 10  8  7  6  9
+        > plot(money, prosocial)
+        > abline(lm(prosocial ~ money))
+        > lm(prosocial~money)
+
+        Call:
+        lm(formula = prosocial ~ money)
+
+        Coefficients:
+        (Intercept)        money  
+             1.2000       0.7818  
+```
+
+![Image of Prediction errors](images/ComputingRegressionLine.PNG)
+
+
 ### Explained variance
 
 **model assumptions**:
