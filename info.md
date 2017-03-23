@@ -202,6 +202,7 @@ of a dependent variable than the mean of the variable.
          [1]  3  2  1  4  5 10  8  7  6  9
         > plot(money, prosocial)
         > abline(lm(prosocial ~ money))
+        > abline(mean(prosocial),0)
         > lm(prosocial~money)
 
         Call:
