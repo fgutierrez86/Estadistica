@@ -1,4 +1,4 @@
-## Measure of central tendency
+# Measure of central tendency
 ------------------------------
 
 ### Mode Moda
@@ -212,7 +212,6 @@ of a dependent variable than the mean of the variable.
         (Intercept)        money  
              1.2000       0.7818  
 ```
-
 ![Image of Prediction errors](images/ComputingRegressionLine.PNG)
 
 
@@ -230,6 +229,56 @@ The left circle represents the variance of independent variable
 X and the right circle stands for the variance of dependent
 variable Y.The overlap represents **r-squared or the explained variance**
 
+# Probability distributions
+---------------------------
 
 
+## Random variable.  
+  A random variable assigns a single numerical value to each basic 
+  outcome in the sample space.
+
+###  Discrete   
+     Probability mass function
+
+  Probability distributions
+
+P(x)
+
+## Cumulative probability
+
+F(X) = P(x<=x)
+
+Example:  
+```R
+ //The sum of rolling two dice:    
+    P(x=2)  = 1/36
+    P(x=3)  = 2/36
+    P(x=4)  = 3/36
+    P(x=5)  = 4/36
+    P(x=6)  = 5/36
+    P(x=7)  = 6/36
+    P(x=8)  = 5/36
+    P(x=9)  = 4/36
+    P(x=10) = 3/36
+    P(x=11) = 2/36
+    P(x=12) = 1/36
+```
+![image of cumulative Table](images/Cumulative.PNG)
+![image of distributions](images/DistributionsGraph.PNG)
+![image of cumulative](images/Cumulative.PNG)
+
+### Expected value  
+    Mean (or Expected value) of a discrete random variable X
+    is the probability-weighted sum of all possible values.
+
+![image of Expected value](images/ExpectedValue.PNG)
+
+
+  
+
+
+
+  
+*  Continous  
+     Probability density functions
 
