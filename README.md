@@ -273,6 +273,24 @@ Example:
 
 ![image of Expected value](images/ExpectedValue.PNG)
 
+Example: rolling a single fair dice:
+
+![Example of Expected value](images/ExpectedValueExample.PNG)
+
+### Measures of dispersion
+
+*   Variance
+    The variance of a discrete random variable is the 
+    probability-weigthed sum of all posible squared deviations
+    from the mean.
+
+![Variance Formula](images/VarianceFormula.PNG)
+
+* Standard deviation
+
+![Standard deviation formula](images/StandardDeviationFormula.PNG)
+    
+
 
   
 
