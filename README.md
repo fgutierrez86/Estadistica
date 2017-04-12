@@ -286,10 +286,21 @@ Example: rolling a single fair dice:
 
 ![Variance Formula](images/VarianceFormula.PNG)
 
-* Standard deviation
+* Standard deviation  
+    Standard deviation is a measure (based on the variance)
+    for the average deviation of the value of a random variable X
+    from its mean miu(u)
+ 
 
 ![Standard deviation formula](images/StandardDeviationFormula.PNG)
     
+
+### Binomial distribution
+
+*   Bernoulli Random Variable  
+    B Allows for only two outcomes, b=1 and b=0, success, failure. 
+
+
 
 
   
