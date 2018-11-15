@@ -1,5 +1,39 @@
-# Measure of central tendency
+## Measure of central tendency
 ------------------------------
+Del curso Basic Statistics (Coursera)
+
+```python
+
+import numpy as np
+
+t2 = [0, 24.1, 5.6, 14.1, 17.2, 8.7, 19.2, 14.1, 27.7, 15, 19.3]
+
+# Median (valor que divide la muestra en dos 50% a la izquierda y derecha)
+
+np.median(t2)
+
+15.0
+
+# Quartiles (+- 25% a la derecha y la izquierda)
+
+# q1
+np.percentile(t2,25)
+
+11.3999
+
+# q2 == Mediana (Median)
+
+np.percentile(t2,50)
+
+# q3 
+
+np.percentile(t2,75)
+
+19.25
+
+
+
+```
 
 ### Mode Moda
 
